@@ -1,5 +1,19 @@
 (written at time of original deadline)
 
+Controls:
+click - place selected building type
+I - industrial
+C - commercial
+escape - cancel
+enter - end turn with no action
+
+yellow = residential (potential workforce)
+dark blue = water
+dark green = forest (materials for industry)
+fuschia = cultural center	(appears on its own in unchanging areas far from industry)
+tan = industry (generates goods, pushes away culture)
+teal = commercial (converts goods to wealth)
+
 
 Pitch:
 
